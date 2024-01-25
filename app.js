@@ -61,7 +61,7 @@ y devuelva su promedio.
 function calcularPromedio(num1, num2, num3){
     let suma = (num1 + num2 + num3)/3;
     console.log(`${suma}`);
-    return;
+    return suma;
 }
 calcularPromedio(14,16,18);
 */
